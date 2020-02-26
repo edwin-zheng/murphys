@@ -1,0 +1,23 @@
+.website-center {
+  background-image: url("http://murphyshawaii.com/media/2014/04/murphys-front.jpg");
+  background-repeat: no-repeat;
+  height: 500px;
+}
+
+.website-center img {
+  position: relative;
+  top: 25%;
+}
+
+.blurb {
+  color: white;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.blurb div {
+  position: relative;
+  top: 45%;
+  padding-left: 3em;
+  padding-right: 3em;
+}
